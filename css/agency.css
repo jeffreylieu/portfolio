@@ -20,6 +20,10 @@ a:hover {
   color: #fec503;
 }
 
+.intro-text{
+    text-shadow: 2px 2px black;
+}
+
 .text-primary {
   color: #fed136 !important;
 }
@@ -65,8 +69,8 @@ section h3.section-subheading {
 }
 
 .btn-xl {
-  font-size: 18px;
-  padding: 20px 40px;
+  font-size: 15px;
+  padding: 4px 15px;
 }
 
 .btn-primary {
@@ -118,7 +122,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-brand {
-  color: #fed136;
+  color: white;
   font-family: 'Kaushan Script', 'Helvetica Neue', Helvetica, Arial, cursive;
 }
 
@@ -127,7 +131,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {
-  font-size: 90%;
+  font-size: 100%;
   font-weight: 400;
   padding: 0.75em 0;
   letter-spacing: 1px;
@@ -169,10 +173,10 @@ img::-moz-selection {
   }
 }
 
-header.masthead {
+header.masthead{
   text-align: center;
   color: white;
-  background-image: url("../img/header-bg.jpg");
+  background-image: url("../img/hongkong.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
