@@ -184,6 +184,10 @@ header.masthead{
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  height: 100vh;
+  min-height: 700px;
+  padding-top: 0;
+  padding-bottom: 0;
 }
 
 header.masthead .intro-text {
@@ -192,9 +196,9 @@ header.masthead .intro-text {
 }
 
 header.masthead .intro-text .intro-lead-in {
-  font-size: 22px;
+  font-size: 55px;
   font-style: italic;
-  line-height: 22px;
+  line-height: 175px;
   margin-bottom: 25px;
   font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
@@ -213,9 +217,9 @@ header.masthead .intro-text .intro-heading {
     padding-bottom: 200px;
   }
   header.masthead .intro-text .intro-lead-in {
-    font-size: 40px;
+    font-size: 60px;
     font-style: italic;
-    line-height: 40px;
+    line-height: 115px;
     margin-bottom: 25px;
     font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   }
