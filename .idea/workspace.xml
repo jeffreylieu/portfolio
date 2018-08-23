@@ -2,7 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25d541a8-4d37-4d5c-aaa2-178ee155a855" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/img/logos/ajax.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logos/aws.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logos/bootstrap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logos/css.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logos/firebase.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logos/github.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logos/html.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logos/jquery.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logos/js.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logos/mysql.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logos/nodejs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logos/php.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logos/react-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logos/redux.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/logos/webpack.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/agency.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/agency.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,20 +30,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="870">
-              <caret line="66" column="79" selection-start-line="66" selection-start-column="79" selection-end-line="66" selection-end-column="79" />
+            <state relative-caret-position="367">
+              <caret line="149" column="18" selection-start-line="149" selection-start-column="18" selection-end-line="149" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="agency.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="agency.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/agency.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="32" column="3" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
+            <state relative-caret-position="226">
+              <caret line="238" lean-forward="true" selection-start-line="238" selection-end-line="238" />
             </state>
           </provider>
         </entry>
@@ -67,7 +84,7 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-969" />
+    <option name="x" value="-971" />
     <option name="y" value="23" />
     <option name="width" value="961" />
     <option name="height" value="828" />
@@ -118,6 +135,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/logos" />
       <recent name="$PROJECT_DIR$/img" />
       <recent name="$PROJECT_DIR$/img/team" />
     </key>
@@ -157,15 +175,16 @@
       <workItem from="1533064392331" duration="3294000" />
       <workItem from="1534799476313" duration="6973000" />
       <workItem from="1534898229457" duration="985000" />
-      <workItem from="1534970310402" duration="395000" />
+      <workItem from="1534970310402" duration="5933000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11827000" />
+    <option name="totallyTimeSpent" value="17365000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-969" y="23" width="961" height="828" extended-state="0" />
+    <frame x="-971" y="23" width="961" height="828" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32909605" />
@@ -331,17 +350,20 @@
     <entry file="file://$PROJECT_DIR$/img/map-image.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/agency.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="3" selection-start-line="32" selection-start-column="3" selection-end-line="32" selection-end-column="3" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/img/logos/js.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="870">
-          <caret line="66" column="79" selection-start-line="66" selection-start-column="79" selection-end-line="66" selection-end-column="79" />
+        <state relative-caret-position="367">
+          <caret line="149" column="18" selection-start-line="149" selection-start-column="18" selection-end-line="149" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/agency.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="238" lean-forward="true" selection-start-line="238" selection-end-line="238" />
         </state>
       </provider>
     </entry>
