@@ -804,16 +804,11 @@ button, select {
   width: 8rem;
 }
 
-@media(min-width: 575px){
-    .col-2{
-        flex: 0 0 33.333333%;
-        max-width: 33.333333%;
-    }
-}
 
-@media(min-width: 768px){
+
+@media(min-width: 414px){
     .col-2{
-        flex: 0 0 33.333333%;
+        /*flex: 0 0 33.333333%;*/
         max-width: 33.333333%;
     }
 }
