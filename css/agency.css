@@ -92,7 +92,7 @@ section h3.section-subheading {
     text-align: center;
     position: relative;
     display: -ms-flexbox;
-    display: flex;
+    display: inline-block;
     -ms-flex-direction: column;
     flex-direction: column;
     min-width: 0;
@@ -604,11 +604,11 @@ header.masthead .intro-text .intro-heading {
   text-align: center;
 }
 
-.team-member img {
-  width: 225px;
-  height: 225px;
-  border: 7px solid #fff;
-}
+/*.team-member img {*/
+  /*width: 225px;*/
+  /*height: 225px;*/
+  /*border: 7px solid #fff;*/
+/*}*/
 
 .team-member h4 {
   margin-top: 25px;
@@ -621,7 +621,7 @@ header.masthead .intro-text .intro-heading {
 }
 
 section#contact {
-  background-color: #212529;
+  background-color: #4e4646;
   background-image: url("../img/map-image.png");
   background-repeat: no-repeat;
   background-position: center;
@@ -796,3 +796,10 @@ button, select {
     }
 }
 
+.h-100{
+  width: 8rem;
+}
+
+.redux{
+  width: 8rem;
+}
