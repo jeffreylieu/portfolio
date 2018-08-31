@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="25d541a8-4d37-4d5c-aaa2-178ee155a855" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
+=======
+    <list default="true" id="25d541a8-4d37-4d5c-aaa2-178ee155a855" name="Default" comment="" />
+>>>>>>> 1b6ce6a805fdb04733ebaf7921b8855c2b3f4be9
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +66,11 @@
         <entry file="file://$PROJECT_DIR$/css/agency.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="4064">
+<<<<<<< HEAD
               <caret line="810" column="22" selection-start-line="810" selection-end-line="811" />
+=======
+              <caret line="810" column="22" lean-forward="true" selection-start-line="810" selection-end-line="811" />
+>>>>>>> 1b6ce6a805fdb04733ebaf7921b8855c2b3f4be9
             </state>
           </provider>
         </entry>
@@ -108,8 +116,13 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="x" value="520" />
     <option name="y" value="146" />
+=======
+    <option name="x" value="332" />
+    <option name="y" value="23" />
+>>>>>>> 1b6ce6a805fdb04733ebaf7921b8855c2b3f4be9
     <option name="width" value="1213" />
     <option name="height" value="908" />
   </component>
@@ -207,11 +220,12 @@
       <workItem from="1535312572324" duration="100000" />
       <workItem from="1535312738477" duration="9000" />
       <workItem from="1535392199242" duration="5244000" />
-      <workItem from="1535398492052" duration="6079000" />
+      <workItem from="1535398492052" duration="6512000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="43144000" />
   </component>
   <component name="ToolWindowManager">
@@ -219,6 +233,15 @@
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13663535" />
+=======
+    <option name="totallyTimeSpent" value="43182000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="515" y="91" width="1286" height="827" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12861736" />
+>>>>>>> 1b6ce6a805fdb04733ebaf7921b8855c2b3f4be9
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Gulp" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -308,7 +331,11 @@
     <entry file="file://$PROJECT_DIR$/css/agency.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4064">
+<<<<<<< HEAD
           <caret line="810" column="22" selection-start-line="810" selection-end-line="811" />
+=======
+          <caret line="810" column="22" lean-forward="true" selection-start-line="810" selection-end-line="811" />
+>>>>>>> 1b6ce6a805fdb04733ebaf7921b8855c2b3f4be9
         </state>
       </provider>
     </entry>
