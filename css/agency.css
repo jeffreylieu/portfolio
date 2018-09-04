@@ -812,3 +812,8 @@ button, select {
         max-width: 33.333333%;
     }
 }
+
+.phone, .email{
+    color: white;
+}
+
