@@ -7,6 +7,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
+    <script>
+        function dragMove(){
+            console.log('touch');
+            if (document.getElementById("navbarResponsive").classList.contains("show")){
+                document.getElementById("navbarResponsive").classList.remove("show");
+            }
+        }
+    </script>
+
 
     <title>Jeff Lieu's Portfolio</title>
 
@@ -27,7 +36,7 @@
 
   </head>
 
-  <body id="page-top">
+  <body id="page-top" ontouchmove="dragMove()">
 
     <!-- Navigation Menu-->
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
