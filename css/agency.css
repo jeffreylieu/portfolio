@@ -804,7 +804,9 @@ button, select {
   width: 8rem;
 }
 
-
+.agile{
+  width: 8rem;
+}
 
 @media(min-width: 414px){
     .col-2{
@@ -817,3 +819,99 @@ button, select {
     color: white;
 }
 
+/* new about section */
+.about-desc {
+  font-family:arial,sans-serif;
+  font-size:100%;
+  color:#fff;
+  align-content: center;
+}
+
+.about-desc h2 {
+  padding: 0;
+  margin: 0;
+}
+
+.about-desc p {
+  padding: 0;
+  margin: 0;
+}
+
+.about-desc h2,p{
+  font-size:100%;
+  font-weight:normal;
+}
+
+.about-desc ul,li{
+  list-style:none;
+}
+
+.about-desc ul{
+  overflow:hidden;
+  padding:3em;
+}
+.about-desc ul li a{
+  text-decoration:none;
+  color:#000;
+  background:#98FB98;
+  display:block;
+  height:15em;
+  width:15em;
+  padding:1em;
+  -webkit-transform:rotate(-6deg);
+  -o-transform:rotate(-6deg);
+  -moz-transform:rotate(-6deg);
+  -moz-box-shadow:5px 5px 7px rgba(33,33,33,1);
+  -webkit-box-shadow: 5px 5px 7px rgba(33,33,33,.7);
+  box-shadow: 5px 5px 7px rgba(33,33,33,.7);
+  -moz-transition:-moz-transform .15s linear;
+  -o-transition:-o-transform .15s linear;
+  -webkit-transition:-webkit-transform .15s linear;
+
+}
+
+.about-desc ul li:nth-child(even) a{
+  -o-transform:rotate(4deg);
+  -webkit-transform:rotate(4deg);
+  -moz-transform:rotate(4deg);
+  position:relative;
+  top:5px;
+  background:#D0F0C0;
+}
+
+.about-desc ul li:nth-child(3n) a{
+  -o-transform:rotate(-3deg);
+  -webkit-transform:rotate(-3deg);
+  -moz-transform:rotate(-3deg);
+  position:relative;
+  top:-5px;
+  background:#BFECD9;
+}
+
+.about-desc ul li:nth-child(5n) a{
+  -o-transform:rotate(5deg);
+  -webkit-transform:rotate(5deg);
+  -moz-transform:rotate(5deg);
+  position:relative;
+  top:-10px;
+}
+
+.about-desc ul li a:hover,ul li a:focus{
+  -moz-box-shadow:10px 10px 7px rgba(0,0,0,.7);
+  -webkit-box-shadow: 10px 10px 7px rgba(0,0,0,.7);
+  box-shadow:10px 10px 7px rgba(0,0,0,.7);
+  -webkit-transform: scale(1.25);
+  -moz-transform: scale(1.25);
+  -o-transform: scale(1.25);
+  position:relative;
+  z-index:5;
+}
+
+.about-desc ul li{
+  margin:1em;
+  float:left;
+}
+
+
+
+Co
