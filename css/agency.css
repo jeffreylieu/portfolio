@@ -804,7 +804,9 @@ button, select {
   width: 8rem;
 }
 
-
+.agile{
+  width: 8rem;
+}
 
 @media(min-width: 414px){
     .col-2{
